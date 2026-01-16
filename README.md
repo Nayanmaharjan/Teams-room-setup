@@ -80,7 +80,7 @@ Below are photos taken after completion of the Teams Room setup, showing the fin
 ![Teams Room Setup](images/3.hiec)
 
 ### Display & Video
-![Yamaha CS-800 and TV Mounted](images/2.hiec)
+![Yamaha CS-800 and TV Mounted](images/2.heic)
 
 ---
 
