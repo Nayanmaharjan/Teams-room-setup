@@ -72,6 +72,18 @@ A short demonstration video of the completed Teams Room setup is available on Yo
 
 ---
 
+## Completed Setup – Photos
+
+Below are photos taken after completion of the Teams Room setup, showing the final configuration and cable management.
+
+### Overall Setup
+![Teams Room Setup](images/3.hiec)
+
+### Display & Video
+![Yamaha CS-800 and TV Mounted](images/2.hiec)
+
+---
+
 ## Notes
 - Client-specific information has been excluded to maintain privacy.
 - This documentation reflects real onsite ICT support work performed in a managed services environment.
